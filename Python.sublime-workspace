@@ -1,0 +1,371 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"message"
+			],
+			[
+				"fro",
+				"fromNumber"
+			],
+			[
+				"to",
+				"toNumber"
+			],
+			[
+				"a",
+				"ACCOUNT_SID"
+			],
+			[
+				"c",
+				"create_app"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"A",
+				"ACCOUNT_SID"
+			],
+			[
+				"f",
+				"Flask"
+			],
+			[
+				"reci",
+				"recipes"
+			],
+			[
+				"P",
+				"PUT"
+			],
+			[
+				"va",
+				"value"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 235.0,
+		"last_filter": "vi",
+		"selected_items":
+		[
+			[
+				"vi",
+				"Virtualenv: Activate"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"workon ",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"workon env1"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Angie/Documents/code-review-task/Python.py",
+		"/Users/Angie/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Angie/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Angie/Documents/loystar/Podfile",
+		"/Users/Angie/Documents/loystar/Loystar.xcworkspace/xcuserdata/Angie.xcuserdatad/UserInterfaceState.xcuserstate",
+		"/Users/Angie/Documents/loystar/Loystar/Info.plist",
+		"/Users/Angie/Documents/loystar/Loystar/Info.plis",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Overview/MarketingView.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/Widgets/ConfigureBidsController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/Prices",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Market",
+		"/Users/Angie/Documents/ChartExample/Podfile",
+		"/Users/Angie/Documents/Chart/Podfile",
+		"/Users/Angie/Documents/Charts/Podfile",
+		"/Users/Angie/Documents/iOS/FarmLogs/Podfile",
+		"/Users/Angie/Documents/loystar/Loystar/Customers/Customers.storyboard",
+		"/Users/Angie/Documents/loystar/Pods/Pods.xcodeproj/xcuserdata/Angie.xcuserdatad/xcschemes/xcschememanagement.plist",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs.xcodeproj/project.pbxproj",
+		"/Users/Angie/Documents/iOS/FarmLogs/Crop/AddMarketedCropView.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Add",
+		"/Users/Angie/Documents/CountryCode/Example/Podfile",
+		"/Users/Angie/Documents/iOS/FarmLogs/Crop/Cell/DeliveryLocationCell.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Details/MarketingDetailsRootViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/MarketingRouter.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/Crop/EditCropChildViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Onboarding/Refresh/Add",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Alerts/Cell/AlertDetailCell.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Settings/Notifications/NotificationsView.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/armLogs/Settings/Notifications/NotificationsView.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Alerts/AlertViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Alerts/Cell/AlertDetailCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/CropSummaryView2.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/GraphQLAPI.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/CropSummaryView2.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/DeliveryPoints/SelectDeliveryPoints/SelectDeliveryPointsViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/Files/FarmLogs-Info.plist",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Supporting",
+		"/Users/Angie/Documents/iOS/FarmLogs/Podfile.lock",
+		"/Users/Angie/Documents/iOS/FarmLogs/OneSignalNotificationServiceExtension/Info.plist",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/CreateOffer/OfferTypeViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/FuturesOnlyOffer/Create/OfferOverviewCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/FuturesOnlyOffer/FutureOfferOverview.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/FuturesOnlyOffer/FuturesOnlyOfferViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/MinMax/Create/CreateMinMaxOfferCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/MinMax/MinMaxViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/OfferButtonsCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Offers.storyboard",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/OfferCreated/OfferCreatedViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/OfferCard.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/FuturesOnlyOffer/Create/CreateNewFutureOffersCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/FuturesOnlyOffer/Review/OverViewCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Details/MarketingOffersViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/armLogs/Marketing/Offers/OfferButtonsCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/HelpMeChoose/TableCells/ChoicesTableViewCell.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/ViewControllers/OfferTypeTableViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/OfferCardCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Details/MarketingOffers.storyboard",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Review/MinmaxOfferReviewView.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/DeliveryPoints/OfferCreated/OfferCreatedViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/FuturesOnly/Cells/PriceForm.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Model/Domain/User/User+Attributes.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Model/Domain/User/User.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/MinMax/Cells/CreateMinMaxOfferCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/MinMax/Cells/MinMaxOfferOverviewCellViewModel.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/FuturesOnly/Cells/CreateNewFutureOffersCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/FuturesOnly/Cells/FutureOfferOverviewCellViewModel.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/FuturesOnly/FuturesOfferView..swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/DeliveryPoints/OfferCreated/Cells/DeliveryPointCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/MinMax/MinMaxView.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/DeliveryPoints/OfferCreated/Cells/DeliveryPointCell.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/DeliveryPoints/OfferCreated/Cells/PhoneNumberCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Review/Cells/ReviewHeaderCell.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Review/FuturesReviewView.swift",
+		"/Users/Angie/Downloads/Offers GraphQL queries/GetInitialFuturesOnlyOfferQuote.graphql",
+		"/Users/Angie/Downloads/Offers GraphQL queries/GetFuturesOffer.graphql",
+		"/Users/Angie/Downloads/Offers GraphQL queries/GetFuturesOnlyOfferQuote.graphql",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/FuturesOnly/Cells/PriceForm.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/FuturesOnly/FuturesOnlyOfferView.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Review/Cells/OverViewCell.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Networking/GraphQL/marketing.graphql",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/FarmLogs/Networking/GraphQL/marketing.graphql",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/Common/Cells/OfferOverviewCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/FuturesOnly/NewFuturesOfferPresenter.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/HelpMeChoose/HelpMeChooseViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/MinMax/Cells/CreateMinMaxOfferCell.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Overview/Cells/OfferDetailsOverview.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Overview/FuturesOfferOverview.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Overview/MinMaxOfferOverview.swift",
+		"/Users/Angie/Downloads/Offers GraphQL queries/GetMinMaxOfferQuote.graphql",
+		"/Users/Angie/Downloads/Offers GraphQL queries/GetInitialMinMaxOfferQuote.graphql",
+		"/FarmLogs/Marketing/Offers/Review/FuturesReviewView.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/MinMax/Cells/ButtonsGrid.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/Common/Cells/MinMaxOfferOverviewCell.xib",
+		"/FarmLogs/Marketing/MarketingRouter.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Details/MarketingOffersBlankSlate.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/Marketing/Offers/Create/MinMax/Cells/ButtonsGrid.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/Marketing/Offers/Create/MinMax/Cells/CreateMinMaxOfferCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/MinMax/Cells/OfferOverviewCellViewModel.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/OffersList/OffersTabListViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Networking/GraphQL/GraphQLAPI+CustomScalars.swift",
+		"/Users/Angie/Downloads/Offers GraphQL queries/GetReviewFuturesOnlyOfferQuote.graphql",
+		"/Users/Angie/Downloads/Offers GraphQL queries/FuturesOfferFragment.graphql",
+		"/Users/Angie/Downloads/Offers GraphQL queries/DeleteOffer.graphql",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/SelectorOfferType/Cells/OfferCardCell.xib",
+		"/Users/Angie/Downloads/Offers GraphQL queries/GetMinMaxOffer.graphql",
+		"/Users/Angie/Downloads/Offers GraphQL queries/GetOffers.graphql",
+		"/Users/Angie/Downloads/Offers GraphQL queries/schema.json",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/FarmLogs/Marketing/Offers/Create/HelpMeChoose/HelpMeChooseViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/HelpMeChoose/Cells/OverviewCell.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/SelectorOfferType/Cells/OfferButtonsCell.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/SelectorOfferType/OfferTypeViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/MinMax/MinMaxViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/FuturesOnly/FuturesOnlyOfferViewController.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Review/OfferReviewView.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/SelectorOfferType/Cells/OffersTextCell.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/CreateOffer/Views/Cells/OffersTextCell.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/Create/SelectorOfferType/Cells/OfferCardCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/FuturesOnlyOffer/OverView/DeleteOfferCell.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/FuturesOnlyOffer/Create/CreateNewFutureOffersCell.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/CreateOffer/Views/Cells/OfferButtonsCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/CreateOffer/Views/Cells/OfferCardCell.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/FuturesOnlyOffer/OverView/DeliveryPoints.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/BC5C418016DF3D890029DFD0",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/FuturesOnlyOffer/Views/Cells/CreateNewFutureOffersCell.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/FarmLogs/Marketing/MarketingRouter.swift",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/FarmLogs.xcodeproj/project.pbxproj",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/MinMax/MinMaxOfferOverview.xib",
+		"/Users/Angie/Documents/iOS/FarmLogs/FarmLogs/Marketing/Offers/MinMax/MinMaxOfferOverview.swift"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 249.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Virtualenv/Python + Virtualenv.sublime-build",
+	"project": "Python.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
